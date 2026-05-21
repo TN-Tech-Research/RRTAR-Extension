@@ -1,6 +1,8 @@
 # R&RTAR Chrome Extension
 
-This extension is a browser-native RRTAR Dashboard for Grants.gov-side automation.
+
+[![RRTAR Extension video walkthrough](assets/rrtar-thumb-wide.png)](https://youtu.be/Yc5QBZer0Pw?si=UHhO5Ed6U2DVKaw3)
+### Click the above image to see a video overview
 
 How it works:
 
